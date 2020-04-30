@@ -4,11 +4,7 @@
 
 node2vec is an algorithmic framework for representational learning on graphs. Given any graph, it can learn continuous feature representations for the nodes, which can then be used for various downstream machine learning tasks. 
 
-The code works under Windows with Visual Studio or Cygwin with GCC,
-Mac OS X, Linux and other Unix variants with GCC. Make sure that a
-C++ compiler is installed on the system. Visual Studio project files
-and makefiles are provided. For makefiles, compile the code with
-"make all".
+sudo apt install build-essential
 
 /////////////////////////////////////////////////////////////////////////////
 
